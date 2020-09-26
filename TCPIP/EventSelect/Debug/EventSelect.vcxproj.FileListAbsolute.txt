@@ -1,0 +1,2 @@
+D:\c_c++\TCPIP\EventSelect\Debug\EventSelect.exe
+D:\c_c++\TCPIP\EventSelect\Debug\EventSelect.pdb

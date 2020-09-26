@@ -1,0 +1,3 @@
+﻿  AsynSelect.c
+D:\c_c++\TCPIP\AsynSelectfromBlankwin\AsynSelect.c(180,27): warning C4133: “函数”: 从“char [1000]”到“LPCWSTR”的类型不兼容
+  AsynSelectfromBlankwin.vcxproj -> D:\c_c++\TCPIP\AsynSelectfromBlankwin\Debug\AsynSelectfromBlankwin.exe

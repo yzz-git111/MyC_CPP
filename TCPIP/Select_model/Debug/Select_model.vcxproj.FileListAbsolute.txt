@@ -1,0 +1,2 @@
+D:\c_c++\TCPIP\Select_model\Debug\Select_model.exe
+D:\c_c++\TCPIP\Select_model\Debug\Select_model.pdb
