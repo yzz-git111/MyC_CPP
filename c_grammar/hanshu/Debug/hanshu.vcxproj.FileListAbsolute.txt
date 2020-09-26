@@ -1,0 +1,4 @@
+D:\vs2019\hanshu\Debug\hanshu.exe
+D:\vs2019\hanshu\Debug\hanshu.pdb
+D:\c_c++\c\hanshu\Debug\hanshu.exe
+D:\c_c++\c\hanshu\Debug\hanshu.pdb

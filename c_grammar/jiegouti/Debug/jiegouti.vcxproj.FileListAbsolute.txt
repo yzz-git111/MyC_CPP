@@ -1,0 +1,2 @@
+D:\c_c++\c\jiegouti\Debug\jiegouti.exe
+D:\c_c++\c\jiegouti\Debug\jiegouti.pdb
